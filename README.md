@@ -1,5 +1,3 @@
-# Tyriar Theme Pack
-
 An extension pack containing all of Daniel Imms' ([@Tyriar](http://github.com/Tyriar)) themes. 
 
 ## [Sapphire](https://marketplace.visualstudio.com/items?itemName=Tyriar.theme-sapphire)
