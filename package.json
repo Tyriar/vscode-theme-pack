@@ -2,7 +2,7 @@
     "name": "theme-pack",
     "displayName": "Tyriar Theme Pack",
     "description": "A collection of high quality VS Code themes",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "Tyriar",
     "icon": "https://raw.githubusercontent.com/Tyriar/vscode-theme-sapphire/master/images/icon.png",
     "license": "MIT",
