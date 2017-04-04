@@ -4,7 +4,7 @@
     "description": "A collection of high quality VS Code themes",
     "version": "0.1.1",
     "publisher": "Tyriar",
-    "icon": "https://raw.githubusercontent.com/Tyriar/vscode-theme-sapphire/master/images/icon.png",
+    "icon": "images/icon.png",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/Tyriar/vscode-theme-pack/issues"
