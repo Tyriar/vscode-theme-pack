@@ -2,7 +2,7 @@
     "name": "theme-pack",
     "displayName": "Tyriar Theme Pack",
     "description": "A collection of high quality VS Code themes",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "Tyriar",
     "engines": {
         "vscode": "^1.10.0"
