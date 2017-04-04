@@ -4,6 +4,16 @@
     "description": "A collection of high quality VS Code themes",
     "version": "0.1.0",
     "publisher": "Tyriar",
+    "icon": "https://raw.githubusercontent.com/Tyriar/vscode-theme-sapphire/master/images/icon.png",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Tyriar/vscode-theme-pack/issues"
+    },
+    "homepage": "https://github.com/Tyriar/vscode-theme-pack",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Tyriar/vscode-theme-pack"
+    },
     "engines": {
         "vscode": "^1.10.0"
     },
